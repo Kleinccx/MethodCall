@@ -1,0 +1,8 @@
+C:\Users\Klein\Desktop\MethodCalling_Saludaga\MethodCalling_Saludaga\bin\Debug\MethodCalling_Saludaga.exe.config
+C:\Users\Klein\Desktop\MethodCalling_Saludaga\MethodCalling_Saludaga\bin\Debug\MethodCalling_Saludaga.exe
+C:\Users\Klein\Desktop\MethodCalling_Saludaga\MethodCalling_Saludaga\bin\Debug\MethodCalling_Saludaga.pdb
+C:\Users\Klein\Desktop\MethodCalling_Saludaga\MethodCalling_Saludaga\obj\Debug\MethodCalling_Saludaga.csproj.AssemblyReference.cache
+C:\Users\Klein\Desktop\MethodCalling_Saludaga\MethodCalling_Saludaga\obj\Debug\MethodCalling_Saludaga.csproj.SuggestedBindingRedirects.cache
+C:\Users\Klein\Desktop\MethodCalling_Saludaga\MethodCalling_Saludaga\obj\Debug\MethodCalling_Saludaga.csproj.CoreCompileInputs.cache
+C:\Users\Klein\Desktop\MethodCalling_Saludaga\MethodCalling_Saludaga\obj\Debug\MethodCalling_Saludaga.exe
+C:\Users\Klein\Desktop\MethodCalling_Saludaga\MethodCalling_Saludaga\obj\Debug\MethodCalling_Saludaga.pdb
